@@ -8,7 +8,7 @@
 
 Begin by having the students **play with the online graph coloring game** at:
 
-[Graph Coloring Game](https://rebinmuhammad.com/games/graph-coloring.html)
+[Graph Coloring Game](https://reben80.github.io/chromatic-number-new-/)
 
 - **Instructions:**
   - Explore the game by attempting to color various graphs with the smallest number of colors.
